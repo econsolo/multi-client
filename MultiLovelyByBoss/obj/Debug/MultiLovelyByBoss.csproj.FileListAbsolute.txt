@@ -1,0 +1,7 @@
+C:\Users\Pichau\source\repos\MultiLovelyByBoss\MultiLovelyByBoss\bin\Debug\MultiLovelyByBoss.exe.config
+C:\Users\Pichau\source\repos\MultiLovelyByBoss\MultiLovelyByBoss\bin\Debug\MultiLovelyByBoss.exe
+C:\Users\Pichau\source\repos\MultiLovelyByBoss\MultiLovelyByBoss\bin\Debug\MultiLovelyByBoss.pdb
+C:\Users\Pichau\source\repos\MultiLovelyByBoss\MultiLovelyByBoss\obj\Debug\MultiLovelyByBoss.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\source\repos\MultiLovelyByBoss\MultiLovelyByBoss\obj\Debug\MultiLovelyByBoss.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\MultiLovelyByBoss\MultiLovelyByBoss\obj\Debug\MultiLovelyByBoss.exe
+C:\Users\Pichau\source\repos\MultiLovelyByBoss\MultiLovelyByBoss\obj\Debug\MultiLovelyByBoss.pdb
