@@ -4,7 +4,7 @@
 Permite abrir vários clientes do Perfect World Lovely, sem a necessidade de multidesktop ou similares
 
 ## Como utilizar?
-1. Efetue o download do executável aqui >> [Clique](MultiLovelyByBoss/bin/Debug/MultiLovelyByBoss.exe);
+1. Efetue o download do executável aqui >> [Clique](https://drive.google.com/open?id=1YCf744B804jKxzmpMBvDoNtOopkzxD-5)
 2. Coloque o executável *MultiLovelyByBoss.exe* dentro da pasta **element**. *Exemplo: Perfect World Lovely/element*;
 3. Clique com o direito sobre o executável *MultiLovelyByBoss.exe > Executar como administrador*;
 4. Ele deverá abrir o **Launcher.exe** do próprio jogo, basta clicar em jogar que abrirá quantos clients desejar.
