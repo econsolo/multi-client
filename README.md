@@ -1,7 +1,7 @@
-# MultiLovely by Boss
+# MultiClient
 
 ## O que é?
-Permite abrir vários clientes do Perfect World Lovely, sem a necessidade de multidesktop ou similares
+Permite abrir vários clients do PW Lovely, sem a necessidade de multidesktop ou similares
 
 ## Como utilizar?
 1. Efetue o download do executável aqui >> [Clique](https://drive.google.com/open?id=1YCf744B804jKxzmpMBvDoNtOopkzxD-5)
